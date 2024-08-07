@@ -1,7 +1,7 @@
 {
     "name": "getcomposer",
     "dependencies": {
-        "@docsearch/js": "^3.0.0-alpha.41",
+        "@docsearch/js": "^3.6.1",
         "plausible-tracker": "^0.3",
         "prismjs": "^1.27.0"
     },
